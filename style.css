@@ -1,0 +1,11 @@
+#intro {
+  display:flex;
+  flex-direction:row;
+  justify-content:left;
+}
+
+#Alex-Greece {
+  max-width:50%;
+  max-height:auto;
+  display:inline-block
+}
