@@ -4,6 +4,10 @@
   justify-content:left;
 }
 
+#info {
+  font-size:20px;
+}
+
 #Alex-Greece {
   max-width:50%;
   max-height:auto;
